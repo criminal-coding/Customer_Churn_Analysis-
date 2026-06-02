@@ -86,5 +86,7 @@ Telecom companies often face customer attrition (churn), which directly impacts 
 
 ### Dashboard Preview
 
+https://github.com/criminal-coding/Customer_Churn_Analysis-/blob/main/Customer_Churn_Analysis.png
+
 
 
